@@ -14,7 +14,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/compute/armcompute v1.0.0
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/network/armnetwork v1.1.0
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/resources/armresources v1.1.1
-	github.com/GoogleCloudPlatform/cloudsql-proxy v1.33.12
+	github.com/GoogleCloudPlatform/cloudsql-proxy v1.33.13
 	github.com/Microsoft/go-winio v0.6.1
 	github.com/andres-erbsen/clock v0.0.0-20160526145045-9e14626cd129
 	github.com/armon/go-metrics v0.4.1
@@ -23,8 +23,8 @@ require (
 	github.com/aws/aws-sdk-go-v2/credentials v1.13.43
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.13.13
 	github.com/aws/aws-sdk-go-v2/service/acmpca v1.22.1
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.126.0
-	github.com/aws/aws-sdk-go-v2/service/iam v1.22.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.127.0
+	github.com/aws/aws-sdk-go-v2/service/iam v1.24.0
 	github.com/aws/aws-sdk-go-v2/service/kms v1.24.5
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.40.0
 	github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.21.0
